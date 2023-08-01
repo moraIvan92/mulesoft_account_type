@@ -1,1 +1,1 @@
-{"main":"account-type.raml","name":"Account Type","classifier":"raml-fragment","tags":[],"groupId":"dea82b66-09d6-49c6-ba36-32ee8e58d7c8","organizationId":"0f52276b-493a-4e35-864e-398984b11c22","assetId":"account-type","version":"1.0.1","apiVersion":"v1","originalFormatVersion":"1.0"}
+{"main":"account-type.raml","name":"Account Type","classifier":"raml-fragment","tags":[],"groupId":"dea82b66-09d6-49c6-ba36-32ee8e58d7c8","organizationId":"dea82b66-09d6-49c6-ba36-32ee8e58d7c8","assetId":"account-type","version":"1.0.0","apiVersion":"v1","originalFormatVersion":"1.0"}
